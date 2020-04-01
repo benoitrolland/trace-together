@@ -1,13 +1,21 @@
 # trace-together
 Heavily looking for the source code of "trace together" advertised as made open-source by the Singapore governement.
 
-https://www.straitstimes.com/singapore/coronavirus-spore-government-to-make-its-contact-tracing-app-freely-available-to
+[straitstimes.com: Coronavirus: Singapore Government to make its contact-tracing app freely available to developers worldwide](https://www.straitstimes.com/singapore/coronavirus-spore-government-to-make-its-contact-tracing-app-freely-available-to)
 
 Please do not wait to release it or one might believe you may be using the pandemia 
 to advertise your company or governement. 
 By the way, would you mind not to communicate on open-source code until it is realy open and reusable ?
 
-https://bluetrace.io/ "powered by governement digital services" 
+An explanation here ? : [TraceTogether - behind the scenes look at its development process](https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process) 25 MAR 2020 
+
+https://www.hive.gov.sg/: 
+"Helping citizens
+one line of code
+at a time" 
+Duplicity of the publicity slogan or mocking advertising ? 
+
+([bluetrace.io](https://bluetrace.io/)) "powered by governement digital services" 
 holds a manifesto, not the source code ... "stay tuned" they say:
 
 BlueTrace Manifesto
