@@ -8,6 +8,7 @@ to advertise your company or governement.
 By the way, would you mind not to communicate on open-source code until it is realy open and reusable ?
 
 An explanation here ? : [TraceTogether - behind the scenes look at its development process](https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process) 25 MAR 2020 
+Geek alergic ? : [9 geeky myth-busting facts you need to know about TraceTogether](https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether)
 
 https://www.hive.gov.sg/: 
 "Helping citizens
