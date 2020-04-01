@@ -5,7 +5,7 @@ https://www.straitstimes.com/singapore/coronavirus-spore-government-to-make-its-
 
 Please do not wait to release it or one might believe you may be using the pandemia 
 to advertise your company or governement. 
-By the way, would you mind not communicate on open-source code until it is realy open and reusable.
+By the way, would you mind not to communicate on open-source code until it is realy open and reusable ?
 
 https://bluetrace.io/ "powered by governement digital services" 
 holds a manifesto, not the source code ... "stay tuned" they say:
